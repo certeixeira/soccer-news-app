@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Soccer News</string>
+    <string name="title_news">News</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="txt_open_link">Abrir link</string>
+    <string name="txt_button_fav">Button favorite news</string>
+    <string name="txt_button_share">Button share news</string>
+    <string name="txt_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor enim ac ipsum sagittis, ac pellentesque massa lacinia. Morbi laoreet, lorem in iaculis dictum, dolor nisl hendrerit quam, vitae fringilla velit orci vel dolor. Donec consectetur mi vel arcu elementum vestibulum. In hac habitasse platea dictumst. Vivamus eros ipsum, ultricies nec nibh eget, egestas ultrices nulla. Duis id mi ac orci ultrices tempus. Sed tempor dignissim augue at commodo. Praesent lectus felis, placerat a placerat quis, semper id massa. Integer sed lacus in nulla gravida consequat vel ut mi. Aenean blandit eros sodales, efficitur metus interdum, euismod sapien. Sed luctus ultrices odio ut malesuada. Ut et enim commodo, pharetra felis et, tempor turpis. Quisque nulla urna, congue quis semper a, dapibus vel magna. Nunc eget convallis mauris. Sed commodo vitae sem id fermentum.</string>
+
+</resources>
