@@ -1,11 +1,34 @@
 package com.certeixeira.soccernews.domain;
 
+import androidx.room.Entity;
+import androidx.room.PrimaryKey;
+
+@Entity
 public class News {
 
-    private String title;
-    private String description;
-    private String image;
-    private String link;
+    @PrimaryKey
+    public int id;
+    public String title;
+    public String description;
+    public String image;
+    public String link;
+    public boolean favorite;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public boolean isFavorite() {
+        return favorite;
+    }
+
+    public void setFavorite(boolean favorite) {
+        this.favorite = favorite;
+    }
 
     public String getTitle() {
         return title;
